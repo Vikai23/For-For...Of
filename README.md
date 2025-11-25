@@ -52,7 +52,7 @@ Pull requests e sugestões são bem-vindas. Abra uma issue para discutir mudanç
 
 ## 📄 Licença
 
-MIT — sinta-se livre para usar, modificar e distribuir.
+MIT sinta-se livre para usar, modificar e distribuir.
 
 ---
 
