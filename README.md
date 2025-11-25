@@ -6,10 +6,12 @@ Repositório com exemplos simples e bem comentados de laços em JavaScript: `for
 
 ## 📦 Conteúdo
 
-* `for-contagem-regressiva.js` — contagem regressiva (ex.: lançamento)
-* `for-notas.js` — percorrendo um array por índice
-* `for-of-par-impar.js` — verifica par/ímpar em um array
-* `for-of-saudacoes.js` — percorre nomes e imprime saudações
+Só um arquivo com um exemplo de cada, chamado `For-ForOf.js`:
+
+* `For-ForOf.js` contém dois exemplos comentados:
+
+  * Exemplo `for` (contagem regressiva; variável declarada fora do loop)
+  * Exemplo `for...of` (verificação de par/ímpar em um array)
 
 ---
 
